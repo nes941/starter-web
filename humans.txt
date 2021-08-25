@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nestor  nestor@email.com
 
 # THANKS
 
