@@ -5,7 +5,10 @@ showing how to use Git and Githib together.
 
 ## Intoduction
 
-Sample website with plenty of files for demos
+This is example is to show different parts
+of the Git repository and various commands
+using a web project.
+
 ## Purpose
 
 ## Deployment
